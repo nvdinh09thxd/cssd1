@@ -1,0 +1,45 @@
+.quando{
+	border: 2px solid blue;
+	width: 50%;
+	height: 500px;
+	position: relative;
+	top: 0px;
+	left: 0px;
+}
+.ynghia{
+	border: 5px solid gray;
+	width: 50%;
+	height: 500px;
+	background: url("../images/doremon.jpg") no-repeat 500px 100px;
+	background-color: yellow;
+}
+.content{
+	line-height: 25px;
+	text-align: right;
+	display: inline;
+}
+.content a{
+	text-decoration: none;
+	font-family: tahoma;
+	font-size: 50px;
+	font-style: italic;
+	font-weight: bold;
+	display: none;
+}
+h2{
+	text-transform: uppercase;
+	text-shadow: 5px 2px green;
+}
+.quanro{
+	position: relative;
+	top: 100px;
+	left: 200px;
+	z-index: 2;
+}
+.quanco{
+	position: absolute;
+	top: 100px;
+	left: 100px;
+	z-index: 3;
+}
+

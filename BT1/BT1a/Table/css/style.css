@@ -1,0 +1,16 @@
+.wrapper {
+	width: 600px;
+	margin: 0px auto;
+	
+}
+table, tr, th, td{
+	border: 2px solid gray;
+}
+th {
+	font-weight: bold;
+}
+th, td{
+	height: 50px;
+	width: 200px;
+	text-align: center;
+}

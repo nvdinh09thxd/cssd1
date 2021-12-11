@@ -1,0 +1,20 @@
+#wrapper {
+	width: 180px;
+	margin: 0px auto;
+	padding: 10px;
+	background-color: #7C366F;
+	font-family: tahoma;
+}
+#wrapper ul li{
+	margin-bottom: 15px;
+}
+h2{
+	font-weight: bold;
+	margin-top: 10px;
+}
+a{
+	text-decoration: none;
+	font-size: 13px;
+	color: white;
+	line-height: 17px;
+}
