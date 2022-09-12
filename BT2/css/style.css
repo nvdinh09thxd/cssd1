@@ -1,4 +1,4 @@
-#wrapper{
+#wrapper {
 	width: 310px;
 	margin: 0px auto;
 	border: 1px solid gray;
@@ -6,34 +6,34 @@
 	border-bottom-right-radius: 8px;
 	font-family: tahoma;
 }
-#wrapper #content{
-	background-color: F8F1F7;
+#wrapper #content {
+	background-color: #f8f1f7;
 }
 
-#wrapper #content ul li{
+#wrapper #content ul li {
 	padding: 10px 5px;
 }
 
-#wrapper #content ul li h2{
+#wrapper #content ul li h2 {
 	font-weight: bold;
 	margin-top: 10px;
 	margin-left: 15px;
 }
-#wrapper #content ul li h2 a{
+#wrapper #content ul li h2 a {
 	text-decoration: none;
 	font-size: 15px;
 	color: black;
 }
-#wrapper #list ul{
+#wrapper #list ul {
 	margin-bottom: 20px;
 	margin-left: 20px;
 }
-#wrapper #list ul li{
+#wrapper #list ul li {
 	padding: 5px;
 	list-style-image: url("../images/dot.png");
 }
 
-#wrapper #list ul li a{
+#wrapper #list ul li a {
 	text-decoration: none;
 	font-size: 13px;
 	color: black;

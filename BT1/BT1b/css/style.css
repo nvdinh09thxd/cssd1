@@ -1,18 +1,18 @@
-#wrapper {
+.wrapper {
 	width: 180px;
 	margin: 0px auto;
 	padding: 10px;
-	background-color: #7C366F;
-	font-family: tahoma;
+	background-color: #7c366f;
 }
-#wrapper ul li{
+.wrapper ul li {
 	margin-bottom: 15px;
 }
-h2{
+h2 {
+	font-family: tahoma;
 	font-weight: bold;
 	margin-top: 10px;
 }
-a{
+a {
 	text-decoration: none;
 	font-size: 13px;
 	color: white;
