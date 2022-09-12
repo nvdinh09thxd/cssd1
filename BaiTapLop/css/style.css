@@ -1,0 +1,40 @@
+#wrapper {
+	width: 182px;
+	margin: 0px auto;
+	padding: 5px;
+	border: 1px solid gray;
+	font-family: arial;
+}
+h2 {
+	background-color: #e0e3e8;
+	border-bottom: 1px solid black;
+	padding: 8px;
+	font-size: 14px;
+}
+.clr {
+	clear: both;
+}
+ul li {
+	padding: 10px 3px;
+}
+.left {
+	background-color: #d6ecab;
+}
+.right {
+	background-color: #f8e3ea;
+}
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+img {
+	width: 85px;
+	height: 62px;
+	margin: 0 5px;
+}
+p {
+	font-size: 13px;
+	line-height: 16px;
+}
